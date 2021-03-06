@@ -15,7 +15,7 @@ the Acorn Project for the CSEE/CIT department.
 
 ## Youtube Link
 
-[Software Demo Video](https://youtu.be/JL1e_6TRXhk)
+[Software Demo Video](https://youtu.be/gl61oXclXKA)
 
 <p>&nbsp;</p>
 
