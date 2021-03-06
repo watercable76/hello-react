@@ -8,6 +8,9 @@ import CardContent from '@material-ui/core/CardContent';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 
+
+// const image = require('../../public/');
+
 const useStyles = makeStyles({
   root: {
     minWidth: 275,
@@ -39,7 +42,7 @@ function SimpleCard() {
         >
           Acorn Project
         </Typography>
-        <img src='../acorn_img' alt='acorn project img' style= {{height: '50px'}} />
+        {/* <img src={image} alt='acorn project img' style= {{height: '50px'}} /> */}
         <Typography variant="body2" component="p">
           Students can earn industry knowledge, and better
           prepare themselves for getting internships and full
