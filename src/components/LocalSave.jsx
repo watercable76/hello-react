@@ -23,8 +23,11 @@ function LocalSave() {
   return (
     <div>
       <h1>Hello React with Local Storage!</h1>
+      <label for='name'>
+        Please enter your name here: <input id="name" value={value} type="text" onChange={onChange} />
+      </label>
 
-      <input value={value} type="text" onChange={onChange} />
+
 
       <p>{value}</p>
     </div>
