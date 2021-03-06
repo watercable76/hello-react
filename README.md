@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+ # Overview 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>&nbsp;</p>
 
-## Available Scripts
+## Description
+Creating multiple web pages with React.js.  
 
-In the project directory, you can run:
+<p>&nbsp;</p>
 
-### `npm start`
+## Purpose 
+I will be creating multiple web pages for this tutorial. This may become a future template for  
+the Acorn Project for the CSEE/CIT department.     
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p>&nbsp;</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Youtube Link
 
-### `npm test`
+[Software Demo Video](https://youtu.be/JL1e_6TRXhk)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>&nbsp;</p>
 
-### `npm run build`
+# Development Environment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>&nbsp;</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tools Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The text editor I used is Visual Studio Code, as well as GitHub. I downloaded Git and connected the repo  
+to my VS Code. This way I can write content while ensuring it works and is visually easier to work with. 
 
-### `npm run eject`
+Since React.js is a JS framework, I worked mainly with JavaScript, but also had embedded JSX, which is  
+JavaScript XML. XML is similar to HTML elements, but is more for data storage. I have never heard of XML  
+before working with this, so I suggest looking up more about XML because I cannot explain it well right now.  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p>&nbsp;</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Starting with React.js
+1. [Create React App](https://github.com/facebook/create-react-app)  
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Running a file:
+* Create the new react app by running this:
+    1. `npx create-react-app my-app`  
+    2. `cd my-app`  
+    3. `npm start`  
+* These will create the folder, create the app, and then you will change to that new folder.    
+* `npm start` will run the project locally.  
 
-## Learn More
+I went through a tutorial on React.js [here](https://www.linkedin.com/learning/learning-react-js-5/getting-started-with-react?u=2153100)  
+which is through LinkedIn Learning. This was a great introduction to working with components, classes, objects and  
+what is React.js. I recommend this tutorial for other people, and if they don't have access to LinkedIn Learning,  
+the tutorials from the [React website](https://reactjs.org/tutorial/tutorial.html) is really good. It covers all the basics  
+of React. I wanted to know more about how to start up a react project, and the LinkedIn Learning course covered that better  
+for me, but it's up to personal preference.  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+For more help and resources, check out these other files:  
+* [Getting Started](getting_started.md)  
+* [Resources](resources.md)  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>&nbsp;</p>
 
-### Code Splitting
+## Programming Language
+React.js was the programming language for this tutorial. I advise looking at the getting_started.md or resources.md  
+files for tutorials and more information.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>&nbsp;</p>
